@@ -1,0 +1,2 @@
+# fbitactical-MD5Hash-cracker
+Developers creating login systems know better than to store passwords in plain text, usually storing hashes of a password to prevent storing the credentials in a way a hacker could steal. Due to the way hashes work, not all are created equal. Some are more vulnerable than others, and a little Python could be used to brute-force any weak hashes to get the passwords they were created from.
