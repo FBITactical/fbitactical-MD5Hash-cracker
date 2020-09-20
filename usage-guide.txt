@@ -1,0 +1,8 @@
+#how to use
+
+type in:"python3 fbitactical-md5hash-cracker.py"
+
+Enter a md5hash : <enter any md5hash>
+
+#If you have installed the rockyou password list correctly, then:
+Enter a wordlist path : <../rockyou.txt>
