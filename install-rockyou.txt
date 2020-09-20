@@ -1,0 +1,7 @@
+#cd into your home directory
+#now use the wget command to install it.
+
+install:"wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt"
+modify it:"chmod -R 777 rockyou.txt"
+
+#now it is ready to use.
